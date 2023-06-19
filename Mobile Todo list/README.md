@@ -4,4 +4,7 @@ This is a tiny exercise app for a Todo List application designed for a mobile in
 
 `npm i` to install package and `npm run dev` to start the application.
 
-![image](https://github.com/RiplisMartinkevicius/react-mobile-todos/assets/61363982/6b3f4e10-00bb-4484-8c24-a7b8442c6cbf)
+View in mobile view using device toolbar with dev tools on your browser.
+
+![image](https://github.com/RiplisMartinkevicius/React-Exercises/assets/61363982/b98ee90d-d67c-4c2b-9b15-60214837f1ae)
+
